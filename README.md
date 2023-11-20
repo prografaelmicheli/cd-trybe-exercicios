@@ -1,1 +1,1 @@
-# cd-trybe-exercicios
+# trybe-exercicios
